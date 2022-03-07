@@ -1,0 +1,11 @@
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\舞蹈-我家晓萌\比赛代码\调试助手\新版小萌调试助手\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.xm_ass.resources
+C:\Users\lenovo\Desktop\3.15\xm_ass\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\3.15\xm_ass\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\3.15\xm_ass\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
